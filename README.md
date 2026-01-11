@@ -1,11 +1,11 @@
 ==================================================
 PROJECT NAME
-==================================================
+==============
 Subarray Sum Indexes – Java (DSA Interview Problem)
 
 ==================================================
 PROJECT OVERVIEW
-==================================================
+============
 This project solves the classic "Indexes of Subarray
 Sum" problem which is frequently asked in interviews
 by companies like Amazon, Google, Meta, Visa, etc.
@@ -22,14 +22,14 @@ Output : Indexes (2, 4) → [3, 7, 5]
 ==================================================
 
 TECH STACK
-==================================================
+=======
 - Java
 - Data Structures & Algorithms (DSA)
 - Sliding Window Technique
 
 ==================================================
 ALGORITHM USED
-==================================================
+============
 Sliding Window (Two Pointer Technique)
 
 - Maintain a window with start and end pointers
@@ -39,13 +39,13 @@ Sliding Window (Two Pointer Technique)
 
 ==================================================
 TIME & SPACE COMPLEXITY
-==================================================
+==============
 Time Complexity  : O(n)
 Space Complexity : O(1)
 
 ==================================================
 AUTHOR
-==================================================
+=============
 Rajesh Patil
 Java | DSA | Spring Boot | Microservices
 ==================================================
